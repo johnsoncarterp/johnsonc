@@ -3,11 +3,11 @@ body {
 }
 
  nav a {
-    color: lime;
+    color: black;
 }
 
 #current-link {
-   text-decoration: none; 
+   text-decoration: seagreen; 
 }
 
 h1 {
@@ -21,14 +21,12 @@ h1 {
 }
 
 h2 a {
-    color: lime;
+    color: black;
 }
 
 img {
-    width: 250px
+    width: 150px
     height auto;
-        
 }
-    
-        
+
 
