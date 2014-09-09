@@ -3,11 +3,11 @@ body {
 }
 
  nav a {
-    color: orange;
+    color: silver;
 }
 
 #current-link {
-   text-decoration: seagreen; 
+   text-decoration: underline; 
 }
 
 h1 {
@@ -16,16 +16,16 @@ h1 {
  padding-bottom:20px;
      padding-left:50px;
      margin-top:50px;
-     margin-left:50px;
+     margin-left:100px;
      margin-right:100px;
 }
 
 h2 a {
-    color: orange;
+    color: silver;
 }
-
-img {
-    width: 150px
+#secondpic
+img{
+    width: 200px
     height auto;
 }
 
@@ -33,3 +33,24 @@ body{
     color: orange;
 }
 
+a {
+    font-family: Impact;
+}
+
+h1{
+    text-align: center
+}
+
+
+
+h1{
+    font-size: 50px;
+}
+
+h1{
+    color: red;
+}
+
+h1{
+    font-family: oblique;
+}
