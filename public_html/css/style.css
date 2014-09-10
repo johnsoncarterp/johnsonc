@@ -1,17 +1,17 @@
-body {
+body{
     background-color: cyan;
 }
 
- nav a {
-    color: silver;
+ nav a{
+    color: purple;
 }
 
-#current-link {
+#current-link{
    text-decoration: underline; 
 }
 
-h1 {
- border: 2px dashed orange;
+h1{
+ border: 2px dashed white;
  padding: 20px;
  padding-bottom:20px;
      padding-left:50px;
@@ -20,25 +20,21 @@ h1 {
      margin-right:100px;
 }
 
-h2 a {
-    color: silver;
+h2 a{
+    color: purple;
 }
-#secondpic
-img{
-    width: 200px
-    height auto;
-}
+
 
 body{
-    color: orange;
+    color: red;
 }
 
-a {
-    font-family: Impact;
+a{
+    font-family: cursive;
 }
 
 h1{
-    text-align: center
+    text-align: center;
 }
 
 
@@ -47,10 +43,16 @@ h1{
     font-size: 50px;
 }
 
-h1{
-    color: red;
-}
 
 h1{
-    font-family: oblique;
+    color:#00ff00;
 }
+
+a:link{
+    background-color: #FFFF85;
+}
+
+body{
+    font-family: monospace;
+}
+
