@@ -2,11 +2,11 @@
  nav a{
     color: purple;
 }
-
+/*color of my links*/
 #current-link{
-   text-decoration: underline; 
+   text-decoration: underline;
 }
-
+/*text decoration*/
 h1{
  border: 2px dashed white;
  padding: 20px;
@@ -16,60 +16,53 @@ h1{
      margin-left:100px;
      margin-right:100px;
 }
-
-h2 a{
-    color: purple;
-}
-
-
+/*all of my borders and margins*/
 body{
     color: red;
 }
-
+/*body text color*/
 a{
     font-family: cursive;
 }
-
+/*my font*/
 h1{
     text-align: center;
 }
-
-
-
+/*where my h1 is aligned*/
 h1{
     font-size: 50px;
 }
-
-
+/*my font size*/
 h1{
     color:#00ff00;
 }
-
+/*my h1 color*/
 a:link{
     background-color: #FFFF85;
 }
-
+/* all of my links backround color*/
 body{
     font-family: monospace;
 }
-
+/*my bodys font*/
 body{
     background-color: cyan;
     background-image: url('http://wallpoper.com/images/00/44/12/93/rayure-cyan_00441293.jpg');
 }
-
+/*my backround*/
 p{
     font-size: 20px;
 }
-
+/*my paragraph font size*/
 h2{
     font-size: 23px;
 }
-
+/* my h2 font size*/
 a{
     font-size:30px; 
 }
-
+/*my a font size*/
 nav{
     text-indent: 470px;
 }
+/*my text indent*/
